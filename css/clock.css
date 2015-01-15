@@ -1,0 +1,14 @@
+body {
+	background-color: #348DD7;
+	color: white;
+}
+
+.main {
+	margin-top: 20%;
+	text-align: center;
+}
+
+#clock {
+	padding: 20px;
+	font-size: 70px;		
+}
